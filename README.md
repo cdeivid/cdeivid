@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,lua,mysql,arduino" height="40" alt="javascript logo"  />
-  <img width="140" />
 </div>
 
 ###
