@@ -62,6 +62,6 @@
 
 ###
 
-[![Spotify](https://spotify-now-playing-orcin-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/CDeivid)
+[![Spotify](https://spotify-now-playing-orcin-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/zo47kmdzfplduvy11xntx5i2d)
 
 ###
