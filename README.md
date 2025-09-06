@@ -66,9 +66,8 @@
 <h2 align="center">🔉 Escuchando ahora</h2>
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/zo47kmdzfplduvy11xntx5i2d">
-    <img src="https://spotify-now-playing-orcin-zeta.vercel.app/api/spotify" alt="Spotify" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zo47kmdzfplduvy11xntx5i2d&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark" alt="spotify-github-profile">
   </a>
-</div>
-
+</p>
