@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">Ahora mismo soy desarrollador y CEO de [BarcelonaRP](https://discord.gg/aQHFrpSc7j)<br><br>Aprendiendo sobre AI</h4>
+<h4 align="left">Ahora mismo soy desarrollador y CEO de (BarcelonaRP)[https://discord.gg/aQHFrpSc7j]<br><br>Aprendiendo sobre AI</h4>
 
 ###
 
