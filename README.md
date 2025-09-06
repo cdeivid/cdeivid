@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/zo47kmdzfplduvy11xntx5i2d?si=cd82ad8af1ef4919">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zo47kmdzfplduvy11xntx5i2d&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark" alt="spotify-github-profile">
   </a>
 </p>
