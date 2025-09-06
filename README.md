@@ -34,9 +34,9 @@
 
 ###
 
-<h4 align="left">Ahora mismo soy desarrollador y CEO de [ADC Team](https://discord.gg/CnRNkQkZC5)<br><br>Aprendiendo sobre AI</h4>
+<h4 align="left">Ahora mismo soy desarrollador y CEO de BarcelonaRP<br><br>Aprendiendo sobre AI</h4>
 
-###
+[BarcelonaRP🌴🥥](https://discord.gg/CnRNkQkZC5)
 
 <br clear="both">
 
