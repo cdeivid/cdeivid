@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">- 👑 Ahora mismo soy desarrollador y CEO de BarcelonaRP<br><br>- 💻 Aprendiendo sobre AI</h4>
+<h4 align="left">- 👑 Ahora mismo soy desarrollador y CEO de OmegaRP<br><br>- 💻 Aprendiendo sobre AI</h4>
 
 [BarcelonaRP🌴🥥](https://discord.gg/CnRNkQkZC5)
 
