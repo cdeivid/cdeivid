@@ -28,7 +28,7 @@
 
 <h4 align="left">- 👑 Ahora mismo soy desarrollador y CEO de OmegaRP<br><br>- 💻 Aprendiendo sobre AI</h4>
 
-[BarcelonaRP🌴🥥](https://discord.gg/CnRNkQkZC5)
+[OmegaRP🌴🥥](^https://discord.gg/rhzzQ8V56c)
 
 <br clear="both">
 
